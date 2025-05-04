@@ -1,4 +1,3 @@
-## 👋 Introduction
 Hello! I'm **Adhiraj Kar**, a passionate **Frontend and Mobile Developer** with over **1 year of experience** in crafting intuitive, responsive, and high-performance web and mobile applications. I specialize in building seamless user experiences using modern JavaScript frameworks, with a strong focus on **React**, **React Native**, **Javascript** and **TypeScript**.
 
 ## 🌐 Socials:
